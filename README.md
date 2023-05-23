@@ -1,0 +1,2 @@
+# zkrat
+FYZIKA
